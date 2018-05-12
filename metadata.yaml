@@ -1,0 +1,32 @@
+_repo: The-Trail-Boys-on-the-PlainsThe-Hunt-for-the-Big-Buffalo_44078
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 44078-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Jay Winthrop
+    gutenberg_agent_id: '42557'
+    url: http://www.gutenberg.org/2009/agents/42557
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American bison -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mine accidents -- Juvenile fiction'
+title: The Trail Boys on the Plains; Or, The Hunt for the Big Buffalo
+url: http://www.gutenberg.org/ebooks/44078
